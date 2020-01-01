@@ -1,1 +1,1 @@
-include ':app', ':lib', ':livechat', ':livechatsupport'
+include ':app', ':lib', ':livechat', ':livechatsupport', ':livechartsupport'
